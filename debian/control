@@ -1,10 +1,10 @@
-Source: maratona-background
+Source: maratona-background-dev
 Section: misc
 Priority: optional
 Maintainer: Bruno Ribas <brunoribas@utfpr.edu.br>
 Build-Depends: debhelper
 Standards-Version: 3.9.8
 
-Package: maratona-background
+Package: maratona-background-dev
 Architecture: all
 Description: Pacote com o background atualizado da Maratona
